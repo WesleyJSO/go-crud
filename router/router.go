@@ -1,10 +1,10 @@
 package router
 
 import (
-	"crud/controller"
-	"crud/database"
-	"crud/repository"
-	"crud/service"
+	"go-crud/controller"
+	"go-crud/database"
+	"go-crud/repository"
+	"go-crud/service"
 	"log"
 	"net/http"
 

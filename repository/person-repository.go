@@ -2,8 +2,8 @@ package repository
 
 import (
 	"context"
-	"crud/database"
-	"crud/entity"
+	"go-crud/database"
+	"go-crud/entity"
 	"log"
 
 	"go.mongodb.org/mongo-driver/bson"

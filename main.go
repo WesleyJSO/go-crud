@@ -1,7 +1,7 @@
 package main
 
 import (
-	"crud/router"
+	"go-crud/router"
 )
 
 func main() {

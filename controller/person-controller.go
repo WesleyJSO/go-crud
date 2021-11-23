@@ -1,9 +1,9 @@
 package controller
 
 import (
-	"crud/entity"
-	"crud/service"
 	"encoding/json"
+	"go-crud/entity"
+	"go-crud/service"
 	"io/ioutil"
 	"log"
 	"net/http"

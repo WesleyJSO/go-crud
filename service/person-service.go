@@ -1,9 +1,9 @@
 package service
 
 import (
-	"crud/entity"
-	"crud/repository"
 	"encoding/json"
+	"go-crud/entity"
+	"go-crud/repository"
 )
 
 type PersonService interface {
